@@ -6,6 +6,7 @@ To learn more, visit the following links:
 
 - [Asynchronous Thinking for Microservice System Design](https://www.datamachines.io/blog/asynchronous-thinking-for-microservice-system-design)
 - [Patterns for microservices - Sync vs Async](https://medium.com/inspiredbrilliance/patterns-for-microservices-e57a2d71ff9e)
+- [Microservices Patterns](https://docs.google.com/document/d/1ePexic3j5m1f76UklX5k2-Pz2Ez3oyglMWOfvZ12ElI/edit?usp=sharing)
 - [It's all a numbers game](https://www.youtube.com/watch?v=1KRYH75wgy4)
 - [Applying back pressure when overloaded](http://mechanical-sympathy.blogspot.com/2012/05/apply-back-pressure-when-overloaded.html)
 - [Little's law](https://en.wikipedia.org/wiki/Little%27s_law)
